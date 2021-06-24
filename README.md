@@ -2,7 +2,7 @@
 # **Gerez**
 
 
-<a  href="https://my-gerez.web.app/">
+<a  href="https://my-gerez-55d9f.web.app/">
 <img  width="100%"  height="100%"  src="https://i.ibb.co/kg8DWn9/Gerez.png"/>
 </a>
 
@@ -10,6 +10,7 @@
 
 **Gerez** is a car servicing website. A full-stack single-page car repair web app where people can take and book services. Login system with firebase and private routes. Dashboard for users and admins where admins can do CRUD operations and users can give reviews and monitor their booking list.
 ### Front-end Technology : 
+
 - **React, React-Router-Dom,**
 - **React-Bootstrap**
 - **CSS3**
@@ -17,14 +18,16 @@
 
 
 ### Back-end Technology : 
+
 - **Node**
 - **Express**
 - **MongoDB**
 
-### `Website Link :` [https://my-gerez.web.app](https://my-gerez.web.app)
+### `Website Link :` [https://my-gerez-55d9f.web.app/](https://my-gerez-55d9f.web.app/)
 
 <hr/>
 
-**[Back-end Repository](https://github.com/SohelIslamImran/gerez-server)**
+**[Back-end Repository](https://github.com/RAHATosman/gerez-server)**
+
 <hr/>
 # gerez
