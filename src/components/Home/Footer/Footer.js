@@ -121,7 +121,7 @@ const Footer = () => {
 
                                     <div className="contact-info">
                                         <h3>Dhaka, Bangladesh</h3>
-                                        <p>South Manda, Dhaka-1214</p>
+                                        <p>Uttara, Dhaka-1214</p>
                                     </div>
 
                                 </div>
@@ -139,7 +139,7 @@ const Footer = () => {
 
                                     <div className="contact-info">
 
-                                        <h3>+880-1910-820976</h3>
+                                        <h3>+880-179756***</h3>
                                         <p>Give us a call</p>
 
                                     </div>
